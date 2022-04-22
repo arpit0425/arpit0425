@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arpit Kumar Raj, currently an undergrad in Mechanical Engineering at IIT BOMBAY
 - 👀 I’m interested in programming, psychology, ott platforms
 - 🌱 I’m currently learning python, social psychology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta - arpit0425
 
 <!---
